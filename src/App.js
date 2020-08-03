@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hi Good morning team, This is my first program in react js with AWS Amplify.</h1>
+        <h1>Hi Good morning team, This is my first program in react js with AWS Amplify. By Shakthi</h1>
       </header>
     </div>
   );
